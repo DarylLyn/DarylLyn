@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarylLyn
 - 👀 I’m interested in ...
-  - 🧑‍🦯 Accessability
+  - 🧑‍🦯 Accessibility
   - 🏛 Archiving Knowledge
   - 🛀 Clean Code
   - 🏗 Modular Code
@@ -15,7 +15,7 @@
 - 🎤 Favorite Quotes...
   - 🍰 The cake is NOT a lie.
   - 🔨 When given only a hammer as a tool, all problems look like nails.
-  - 🪄 Any technology destinguishable from magic is insufficiently advanced.
+  - 🪄 Any technology distinguishable from magic is insufficiently advanced.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
   - 📧 E-Mail: 
